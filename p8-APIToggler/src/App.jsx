@@ -29,9 +29,9 @@ function App() {
             <ThemeBtn />
           </div>
 
-          <div className="w-full max-w-sm mx-auto">
+          {/* <div className="w-full max-w-sm mx-auto">
             <Card />
-          </div>
+          </div> */}
         </div>
       </div>
 

@@ -5,17 +5,18 @@ const Dashboard = () => {
 
     const menuItems = [
         "Home",
-        "Stock-list",
-        "Indices",
-        "Futures",
-        "US Market",
-        "Crypto",
+        "Bidding area",
+        "Live Biding",
+        "Products",
+        "Active Bids",
+        "Past Bids",
+        "Profile",
     ];
 
     return (
         <div className="min-h-screen p-4 bg-gray-100 dark:bg-gray-900">
             {/* Logo */}
-            <div className="text-3xl font-bold text-blue-500 dark:text-blue-400 mb-32">
+            <div className="text-center text-3xl font-bold text-blue-500 dark:text-blue-400 mb-32">
                 VBS30
             </div>
 

@@ -34,4 +34,4 @@ React is widely used in web development to build dynamic and interactive user in
 This series of projects is part of my learning journey with React. It is not designed by me, but rather, I am a student following this structured path to master React. I hope you find this series as enlightening and enjoyable as I do!
 
 
-Join us on this exciting journey to become a React expert! 🚀
+Join me on this exciting journey to become a React expert! 🚀
